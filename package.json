@@ -1,0 +1,16 @@
+{
+  "name": "npm-dependency-test",
+  "version": "1.0.0",
+  "description": "Test TypeScript NPM depenency",
+  "main": "app.js",
+  "dependencies": {
+    "my-npm-lib": "^1.0.0",
+    "typescript": "^1.9.0-dev.20160426"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Hegazy",
+  "license": "ISC"
+}
